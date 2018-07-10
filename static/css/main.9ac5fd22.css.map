@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAEA,KACE,SACA,kBACA,sBAAwB","file":"static/css/main.9ac5fd22.css","sourcesContent":["/* put the global css code here */\n\nbody {\n  margin: 0;\n  padding-left: 50px;\n  font-family: sans-serif;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
